@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 - pengenalan generic/01 - pengenalan generic.iml" filepath="$PROJECT_DIR$/01 - pengenalan generic/01 - pengenalan generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - generic class/02 - generic class.iml" filepath="$PROJECT_DIR$/02 - generic class/02 - generic class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Generic.iml" filepath="$PROJECT_DIR$/Java-Generic.iml" />
+    </modules>
+  </component>
+</project>
