@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01 - pengenalan generic/01 - pengenalan generic.iml" filepath="$PROJECT_DIR$/01 - pengenalan generic/01 - pengenalan generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - generic class/02 - generic class.iml" filepath="$PROJECT_DIR$/02 - generic class/02 - generic class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 - generic method/03 - generic method.iml" filepath="$PROJECT_DIR$/03 - generic method/03 - generic method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04 - invariant/04 - invariant.iml" filepath="$PROJECT_DIR$/04 - invariant/04 - invariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05 - covariant/05 - covariant.iml" filepath="$PROJECT_DIR$/05 - covariant/05 - covariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06 - contravariant/06 - contravariant.iml" filepath="$PROJECT_DIR$/06 - contravariant/06 - contravariant.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Generic.iml" filepath="$PROJECT_DIR$/Java-Generic.iml" />
     </modules>
   </component>
