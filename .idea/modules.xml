@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/04 - invariant/04 - invariant.iml" filepath="$PROJECT_DIR$/04 - invariant/04 - invariant.iml" />
       <module fileurl="file://$PROJECT_DIR$/05 - covariant/05 - covariant.iml" filepath="$PROJECT_DIR$/05 - covariant/05 - covariant.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 - contravariant/06 - contravariant.iml" filepath="$PROJECT_DIR$/06 - contravariant/06 - contravariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - bounded type parameter/07 - bounded type parameter.iml" filepath="$PROJECT_DIR$/07 - bounded type parameter/07 - bounded type parameter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08 - wildcard/08 - wildcard.iml" filepath="$PROJECT_DIR$/08 - wildcard/08 - wildcard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09 - type erasure/09 - type erasure.iml" filepath="$PROJECT_DIR$/09 - type erasure/09 - type erasure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10 - comparable interface/10 - comparable interface.iml" filepath="$PROJECT_DIR$/10 - comparable interface/10 - comparable interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11 - comparator interface/11 - comparator interface.iml" filepath="$PROJECT_DIR$/11 - comparator interface/11 - comparator interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Generic.iml" filepath="$PROJECT_DIR$/Java-Generic.iml" />
     </modules>
   </component>
